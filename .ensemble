@@ -6,8 +6,6 @@ owner: benjamin.wootton.personal@gmail.com
 
 main_branch: main
 
-# In this section we map your projects branches to DBT targets asd
-
 branch_deployments:
     main : security_production
     my_new_feature : security_dev
