@@ -1,0 +1,21 @@
+security_analytics:
+
+  target: sec_dev
+  outputs:
+    sec_dev:
+      type: clickhouse
+      schema: sec_dev
+      host: 35.189.109.115
+      password: ''
+    
+    sec_test:
+      type: clickhouse
+      schema: sec_test
+      host: 35.189.109.115
+      password: ''
+
+    sec_production:
+      type: clickhouse
+      schema: sec_production
+      host: 35.189.109.115
+      password: ''
