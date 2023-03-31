@@ -1,6 +1,6 @@
 security_analytics:
 
-  target: sec_dev
+  target: sec_test
   outputs:
     sec_dev:
       type: clickhouse
