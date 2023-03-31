@@ -7,5 +7,5 @@ owner: benjamin.wootton.personal@gmail.com
 main_branch: main
 
 branch_deployments:
-    main : security_production
-    my_new_feature : security_dev
+    main : sec_production
+    my_new_feature : sec_dev
